@@ -1,0 +1,72 @@
+.button-blue {
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    border: none;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color:#FFFFFF;
+    background-color:#4eb5f1;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+.button-blue.hidden {
+    visibility: hidden;
+}
+
+.button-blue:hover{
+    background-color:#4095c6;
+}
+
+
+.button-gray {
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    border: none;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color:#FFFFFF;
+    background-color:#999999;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+.button-gray.hidden {
+    visibility: hidden;
+}
+
+.button-gray:hover{
+    background-color:#BDBDBD;
+}
+
+
+.button-red {
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    border: none;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color:#FFFFFF;
+    background-color:#FE0C0C;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+.button-red.hidden {
+    visibility: hidden;
+}

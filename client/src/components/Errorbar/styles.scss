@@ -1,0 +1,17 @@
+.error {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #FF9696;
+    margin-bottom: 30px;
+    text-align: center;
+    position: relative;
+    height: 100px;
+}
+
+.message {
+    color: black;
+    font-size: 30px;
+    line-height: 35px;
+}

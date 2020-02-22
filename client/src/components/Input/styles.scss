@@ -1,0 +1,27 @@
+input {
+    height: 50px;
+    background: transparent;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    color: #555555;
+    line-height: 1.2;
+    padding: 0 2px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+span {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    color: #999999;
+    line-height: 1.2;
+    padding-left: 2px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-bottom: 40px;
+}

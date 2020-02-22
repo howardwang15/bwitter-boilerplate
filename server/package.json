@@ -1,0 +1,34 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "a node.js boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howardwang15/node-boilerplate.git"
+  },
+  "author": "Howard Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howardwang15/node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/howardwang15/node-boilerplate#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.4",
+    "dotenv": "^8.1.0",
+    "express": "^4.16.4",
+    "firebase": "^7.1.0",
+    "firebase-admin": "^8.6.0",
+    "firebase-tools": "^7.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.0"
+  }
+}
