@@ -29,6 +29,6 @@
     "firebase-admin": "^8.6.0",
     "firebase-tools": "^7.4.0",
     "jsonwebtoken": "^8.5.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
